@@ -1,0 +1,7 @@
+{
+  "name": "Disney ToonCalc - Animated Cartoon Calculator",
+  "description": "Magical Disney cartoon animated calculator featuring interactive animated characters, whimsical cartoon sound effects for every number and operator, playful animations, and voice effects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
